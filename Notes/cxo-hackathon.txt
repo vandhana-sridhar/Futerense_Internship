@@ -1,0 +1,5 @@
+sensor - collects data/detects data
+server - stores data
+sigma -behavioural based detection
+
+ids-intrusion detection system
